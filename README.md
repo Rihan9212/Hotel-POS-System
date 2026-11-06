@@ -1,16 +1,39 @@
-# React + Vite
+<img width="1305" height="906" alt="Screenshot 2026-11-06 210319" src="https://github.com/user-attachments/assets/ac252b52-81ad-4314-9f16-881ac65f0d48" /># 🍽️ BiteDesk - Restaurant POS System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Restaurant Point of Sale web application.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Interactive food menu
+- Food category filtering
+- Search functionality
+- Shopping cart
+- Discount calculation
+- Receipt printing
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- Tailwindcss
+- JavaScript
+- ReactJs
 
-## React Compiler
+## 📸 Screenshots
+<img width="1920" height="876" alt="Screenshot 2026-11-06 210149" src="https://github.com/user-attachments/assets/0208df84-8d1e-481d-9b1b-2d2088fedcba" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Installation
+
+git clone YOUR_REPOSITORY_URL
+
+cd platepilot-restaurant-pos
+
+npm install
+
+npm run dev
+
+## 👨‍💻 Author
+Your Name
+
+## 📄 License
+MIT
