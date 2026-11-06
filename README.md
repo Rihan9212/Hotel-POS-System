@@ -19,13 +19,21 @@ A modern Restaurant Point of Sale web application.
 
 ## 📸 Screenshots
 Front Page
-D:\Smart_Restaurant_POS_System\src\assets\Front Page.png
+<img width="400" height="200" alt="Front Page" src="https://github.com/user-attachments/assets/976199c5-7e0c-4341-ae7a-2770dba49e68" />
+
+
 Order History
-D:\Smart_Restaurant_POS_System\src\assets\Order History.png
+<img width="400" height="200" alt="Order History" src="https://github.com/user-attachments/assets/3fffa74b-9b07-4456-90b2-d565cafb7645" />
+
+
 Order List
-D:\Smart_Restaurant_POS_System\src\assets\Order List.png
+<img width="400" height="200" alt="Order List" src="https://github.com/user-attachments/assets/8b91b64f-2a1a-4285-8ab9-a4be5918957e" />
+
+
 Printable Receipt
-D:\Smart_Restaurant_POS_System\src\assets\Printable Receipt.png
+<img width="400" height="200" alt="Printable Receipt" src="https://github.com/user-attachments/assets/d0f68c75-b9ae-484a-a9c4-449199112235" />
+
+
 
 ## ⚙️ Installation
 
