@@ -1,4 +1,4 @@
-<img width="1305" height="906" alt="Screenshot 2026-11-06 210319" src="https://github.com/user-attachments/assets/ac252b52-81ad-4314-9f16-881ac65f0d48" /># 🍽️ BiteDesk - Restaurant POS System
+BiteDesk - Restaurant POS System
 
 A modern Restaurant Point of Sale web application.
 
@@ -18,22 +18,26 @@ A modern Restaurant Point of Sale web application.
 - ReactJs
 
 ## 📸 Screenshots
-<img width="1920" height="876" alt="Screenshot 2026-11-06 210149" src="https://github.com/user-attachments/assets/0208df84-8d1e-481d-9b1b-2d2088fedcba" />
-
-
+Front Page
+D:\Smart_Restaurant_POS_System\src\assets\Front Page.png
+Order History
+D:\Smart_Restaurant_POS_System\src\assets\Order History.png
+Order List
+D:\Smart_Restaurant_POS_System\src\assets\Order List.png
+Printable Receipt
+D:\Smart_Restaurant_POS_System\src\assets\Printable Receipt.png
 
 ## ⚙️ Installation
 
-git clone YOUR_REPOSITORY_URL
+git clone git@github.com:Rihan9212/Smart_Restaurant_POS_System.git
 
-cd platepilot-restaurant-pos
+cd Smart_Restaurant_POS_System
 
 npm install
 
 npm run dev
 
 ## 👨‍💻 Author
-Your Name
+A. M. Mohamed Rihan
 
-## 📄 License
-MIT
+
