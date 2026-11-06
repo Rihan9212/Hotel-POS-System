@@ -113,7 +113,7 @@ const filteredMenu = menuData.filter((item) =>{
                           <div>
                             <h1 className='text-2xl font-black   tracking-tight flex items-center
                                             gap-2 text-orange-500 mb-2'  >
-                            <Pizza size={32} /> Foodie POS
+                            <Pizza size={32} /> BiteDesk
                             </h1>
                             <p className='text-slate-400 text-sm font-medium'>Table #04 - Cashier: Admin </p>
                          </div>

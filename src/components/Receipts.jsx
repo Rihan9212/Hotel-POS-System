@@ -23,22 +23,24 @@ const Receipts = ({cart, orderDetails}) => {
             <span>{date}</span>
           </div>
 
-          <div className='border-b border-slate-200 pb-2 mb-2'>
-               <div className='flex justify-between font-bold mb-1'>
-                <span className='flex-2'>Item</span>
-                <span className='flex-1 text-center'>Qty</span>
-                <span className='flex-1 text-right'>Price</span>
-              </div> 
+         <div className='border-b border-slate-200 pb-2 mb-2'>
+  <div className='flex justify-between font-bold mb-1'>
+    <span className='flex-2'>Item</span>
+    <span className='flex-1 text-center'>Qty</span>
+    <span className='flex-1 text-right'>Price</span>
+    <span className='flex-1 text-right'>Amount</span>
+  </div>
 
-               {cart.map((item)=>(
-                  <div key={item.id} className='flex justify-between pt-1'>
-                      <span className='flex-2 truncate'>{item.name}</span>
-                      <span className='flex-1 text-center'>x{item.quantity}</span>
-                      <span className='flex-2 truncate'>{item.price * item.quantity}</span>
-                  </div>
-                 ))}; 
-
-           </div>  
+  {cart.map((item) => (
+    <div key={item.id} className='flex justify-between pt-1'>
+      <span className='flex-2 truncate'>{item.name}</span>
+      <span className='flex-1 text-center'>x{item.quantity}</span>
+      <span className='flex-1 text-right'>{item.price}</span>
+      <span className='flex-1 text-end'>{item.price * item.quantity}.00</span>
+      <span>{}</span>
+    </div>
+  ))}
+</div>
 
          <div className='space-y-1 mb-4'>
                  <div className='flex justify-between'>
@@ -47,7 +49,7 @@ const Receipts = ({cart, orderDetails}) => {
                 </div> 
 
                 <div className='flex justify-between'>
-                  <span>GST (5%)</span>
+                  <span>Discount (5%)</span>
                   <span>${tax.toFixed(2)}</span>
                 </div>
 

@@ -67,7 +67,7 @@ const CardSidebar = ({cart, onClear, onUpdate, onPrint}) => {
           <span>${subtotal.toFixed(2)}</span>
         </div>
         <div className='flex justify-between text-sm text-slate-500'>
-          <span>GST (5%)</span>
+          <span>Discount (5%)</span>
           <span>${tax.toFixed(2)}</span>
         </div>
         <div className='flex justify-between text-sm text-slate-900
