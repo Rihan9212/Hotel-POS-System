@@ -13,8 +13,8 @@ const Receipts = ({cart, orderDetails}) => {
     
     <div id='receipt-print' className='p-8 bg-white text-slate-800 font-mono text-sm'>
           <div className='text-center border-b-2 border-dashed border-slate-300- pb-4 mb-4'>
-            <h1 className='text-2xl font-bold uppercase tracking-widest '>GRAND HOTEL</h1>
-            <p className='text-xs text-slate-500'>123 Food street, colombo city</p>
+            <h1 className='text-2xl font-bold uppercase tracking-widest '>Bite Desk</h1>
+            <p className='text-xs text-slate-500'>123 Main street, colombo </p>
             <p className='text-xs text-slate-500'>TEl: +94 752461267</p>
           </div>
 
